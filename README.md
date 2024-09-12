@@ -1,16 +1,14 @@
-## Hi there 👋
+## 你好，我是铭
 
-<!--
-**jingming295/jingming295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名开发开源软件的开发者，专注于 Web 开发、插件和后端服务。我喜欢开发软件。
 
-Here are some ideas to get you started:
+- 🔭 目前在开发多个开源项目，致力于为开发者社区提供更好的软件工具。
+- 🌱 喜欢学习新技术和编程语言，不断提升自己的技能。
+- 👯 希望与更多的开发者合作，共同推动开源项目的发展。
+- 💬 欢迎与我交流有关 Web 开发、后端服务、开源项目的任何问题！
+- 📫 你可以通过 [Email](jingming295@gmail.com) 联系我。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+感谢访问我的 GitHub 主页，希望我的项目能对你有所帮助！欢迎 star ⭐ 和 fork 🍴，也欢迎一起交流合作！🙌
+
+## 爱发电
+[Ming](https://afdian.com/a/mingj)
